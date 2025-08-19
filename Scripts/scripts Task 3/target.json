@@ -1,0 +1,163 @@
+{
+    "file_name": "xxxxx",
+    "hands": [
+      {
+        "id": "left_hand",
+        "keypoints": {
+          "Thumb": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Index": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Middle": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Ring": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Pinky": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Back_of_hand": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          }
+        },
+        "label": "Left Hand"
+      },
+      {
+        "id": "right_hand",
+        "keypoints": {
+          "Thumb": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Index": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Middle": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Ring": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Pinky": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Back_of_Hand": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          }
+        },
+        "label": "Right Hand"
+      }
+    ],
+    "tools": [
+      {
+        "id": "Scissors",
+        "keypoints": {
+          "Left": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Right": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Joint": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          }
+        },
+        "label": "Scissors"
+      },
+      {
+        "id": "Tweezers",
+        "keypoints": {
+          "Left": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Right": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Nub": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          }
+        },
+        "label": "Tweezers"
+      },
+      {
+        "id": "Needle",
+        "keypoints": {
+          "Left": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Right": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Middle": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          }
+        },
+        "label": "Needle"
+      },
+      {
+        "id": "Needle_Holder",
+        "keypoints": {
+          "Left": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Right": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          },
+          "Joint": {
+            "x": 0,
+            "y": 0,
+            "visibility": 0
+          }
+        },
+        "label": "Needle Holder"
+      }
+    ]
+  }

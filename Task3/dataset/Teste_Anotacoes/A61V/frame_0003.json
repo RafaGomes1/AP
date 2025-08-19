@@ -1,0 +1,223 @@
+{
+  "file_name": "frame_0003",
+  "hands": [
+    {
+      "id": "left_hand",
+      "keypoints": {
+        "Thumb": {
+          "x": 514.7619047619047,
+          "y": 715.3968253968253,
+          "visibility": 2
+        },
+        "Index": {
+          "x": 424.2857142857142,
+          "y": 640.7936507936507,
+          "visibility": 2
+        },
+        "Middle": {
+          "x": 278.2539682539682,
+          "y": 610.6349206349206,
+          "visibility": 2
+        },
+        "Ring": {
+          "x": 236.9841269841269,
+          "y": 672.5396825396825,
+          "visibility": 1
+        },
+        "Pinky": {
+          "x": 205.23809523809516,
+          "y": 699.5238095238095,
+          "visibility": 1
+        },
+        "Back_of_hand": {
+          "x": 129.04761904761898,
+          "y": 975.7142857142858,
+          "visibility": 2
+        }
+      },
+      "label": "Left Hand"
+    },
+    {
+      "id": "right_hand",
+      "keypoints": {
+        "Thumb": {
+          "x": 1476.6666666666665,
+          "y": 429.68253968253964,
+          "visibility": 2
+        },
+        "Index": {
+          "x": 1632.2222222222222,
+          "y": 139.2063492063492,
+          "visibility": 2
+        },
+        "Middle": {
+          "x": 1781.4285714285713,
+          "y": 118.57142857142856,
+          "visibility": 2
+        },
+        "Ring": {
+          "x": 0,
+          "y": 0,
+          "visibility": 0
+        },
+        "Pinky": {
+          "x": 0,
+          "y": 0,
+          "visibility": 0
+        },
+        "Back_of_Hand": {
+          "x": 1890.952380952381,
+          "y": 429.68253968253964,
+          "visibility": 2
+        }
+      },
+      "label": "Right Hand"
+    }
+  ],
+  "tools": [
+    {
+      "id": "Scissors",
+      "keypoints": {
+        "Left": {
+          "x": 1470.3174603174602,
+          "y": 321.7460317460317,
+          "visibility": 2
+        },
+        "Right": {
+          "x": 1519.5238095238094,
+          "y": 286.82539682539687,
+          "visibility": 2
+        },
+        "Joint": {
+          "x": 1343.3333333333333,
+          "y": 75.7142857142857,
+          "visibility": 2
+        },
+        "Extra1": {
+          "x": 0,
+          "y": 0,
+          "visibility": 0
+        },
+        "Extra2": {
+          "x": 0,
+          "y": 0,
+          "visibility": 0
+        },
+        "Extra3": {
+          "x": 0,
+          "y": 0,
+          "visibility": 0
+        }
+      },
+      "label": "Scissors"
+    },
+    {
+      "id": "Tweezers",
+      "keypoints": {
+        "Left": {
+          "x": 608.4126984126983,
+          "y": 236.031746031746,
+          "visibility": 2
+        },
+        "Right": {
+          "x": 541.7460317460317,
+          "y": 170.95238095238093,
+          "visibility": 2
+        },
+        "Nub": {
+          "x": 483.01587301587296,
+          "y": 331.2698412698412,
+          "visibility": 2
+        },
+        "Extra1": {
+          "x": 0,
+          "y": 0,
+          "visibility": 0
+        },
+        "Extra2": {
+          "x": 0,
+          "y": 0,
+          "visibility": 0
+        },
+        "Extra3": {
+          "x": 0,
+          "y": 0,
+          "visibility": 0
+        }
+      },
+      "label": "Tweezers"
+    },
+    {
+      "id": "Needle",
+      "keypoints": {
+        "Left": {
+          "x": 640.1587301587301,
+          "y": 582.063492063492,
+          "visibility": 2
+        },
+        "Right": {
+          "x": 684.6031746031746,
+          "y": 620.1587301587301,
+          "visibility": 2
+        },
+        "Middle": {
+          "x": 678.2539682539682,
+          "y": 590.0,
+          "visibility": 2
+        },
+        "Extra1": {
+          "x": 0,
+          "y": 0,
+          "visibility": 0
+        },
+        "Extra2": {
+          "x": 0,
+          "y": 0,
+          "visibility": 0
+        },
+        "Extra3": {
+          "x": 0,
+          "y": 0,
+          "visibility": 0
+        }
+      },
+      "label": "Needle"
+    },
+    {
+      "id": "Needle_Holder",
+      "keypoints": {
+        "Left": {
+          "x": 1224.2857142857142,
+          "y": 586.8253968253968,
+          "visibility": 2
+        },
+        "Right": {
+          "x": 1397.3015873015872,
+          "y": 512.2222222222222,
+          "visibility": 2
+        },
+        "Joint": {
+          "x": 1154.4444444444443,
+          "y": 174.12698412698413,
+          "visibility": 2
+        },
+        "Extra1": {
+          "x": 0,
+          "y": 0,
+          "visibility": 0
+        },
+        "Extra2": {
+          "x": 0,
+          "y": 0,
+          "visibility": 0
+        },
+        "Extra3": {
+          "x": 0,
+          "y": 0,
+          "visibility": 0
+        }
+      },
+      "label": "Needle Holder"
+    }
+  ]
+}
